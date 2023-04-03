@@ -53,7 +53,7 @@ I'll turn it into a Next.js site when I have the time.
 
 <a name="valdemun"></a>
 `Okay, a pause.
-First two chapters introduce a narrative “I” who moves in and out of other people’s stories. The third chapter moved further into the personas of Buber-Neumann, Klemperer, and Ginsberg Most recently, we’ve moved fully into the soldier’s “I” and reflected on the concept of persona`
+First two chapters introduce a narrative “I” who moves in and out of other people’s stories. The third chapter moved further into the personas of Buber-Neumann, Klemperer, and Ginsberg. Most recently, we’ve moved fully into the soldier’s “I” and reflected on the concept of persona`
 
 ![Ch 5: valdemún](https://github.com/dericko/sepharad-charts/blob/main/SEPH%20CHARTZ%20images5.jpg)
 
