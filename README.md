@@ -6,7 +6,7 @@ One of my favorite ways to read a novel is to visualize the text through charts.
 
 ## Method
 
-It's really just a slideshow that I made in Apple Keynote...
+It's really just a slideshow...
 
 I'll turn it into a Next.js site when I have the time.
 
