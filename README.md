@@ -34,7 +34,7 @@ I'll turn them into d3 charts when I have the time.
 <a name="sacristan"></a>
 `"something else that until that moment I hadn’t known was in my memory"`
 
-![Ch 1: sacristan](https://github.com/dericko/sepharad-charts/blob/main/SEPH CHARTZ images1.jpg)
+![Ch 1: sacristan](https://github.com/dericko/sepharad-charts/blob/main/SEPH%20CHARTZ%20images1.jpg)
 
 <a name="copenhagen"></a>
 `"I had abandoned the everyday and entered a kingdom very much like the world of films or books: the insomniac world of travelers."` 
