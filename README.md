@@ -8,7 +8,7 @@ One of my favorite ways to read a novel is to visualize the text through charts.
 
 It's really just a slideshow...
 
-I'll turn it into a Next.js site when I have the time.
+I'll turn them into d3 charts when I have the time.
 
 ## Table of Contents
 1. [sacristan](#sacristan)
