@@ -4,7 +4,7 @@ A visual essay inspired by Sepharad, a novel by Antonio Munoz Molina.
 
 ## Method
 
-One of my favorite ways to read and remember a novel is to visualize the text through charts. These mock-ups were made in Keynote. When I have time, I'll turn them into d3.js charts.
+One of my favorite ways to read and remember a novel is to visualize the text through charts.
 
 
 ## Table of Contents
