@@ -62,7 +62,7 @@ First two chapters introduce a narrative “I” who moves in and out of other p
 <a name="munzenberg"></a>
 `"At some moment in the reading, without my knowing, there came a shift in attitude, and the person who had been nothing more than a name..."`
 
-![Ch 7: münzenberg](https://github.com/dericko/sepharad-charts/blob/main/SEPH%20CHARTZ%20image7.jpg)
+![Ch 7: münzenberg](https://github.com/dericko/sepharad-charts/blob/main/SEPH%20CHARTZ%20images7.jpg)
 
 <a name="olympia"></a>
 `At this point in reading we’ve seen a wide range of storytelling modes plus some major payoffs for earlier references. It’s passed the 1/3 mark and my thinking brain is mostly turned off. I trust the book to take me wherever it wants to go.`
